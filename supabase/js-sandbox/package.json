@@ -1,0 +1,6 @@
+{
+  "main": "index.js",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.46.1"
+  }
+}
